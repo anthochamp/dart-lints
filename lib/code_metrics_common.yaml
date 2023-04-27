@@ -2,6 +2,7 @@ dart_code_metrics:
   metrics-exclude:
     - test/**
   rules: 
+    - avoid-missing-enum-constant-in-map: false
     - prefer-match-file-name: false
     - prefer-async-await: false
     - prefer-static-class: false
