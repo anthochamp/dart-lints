@@ -1,3 +1,7 @@
+## 0.2.1
+
+- Remove analyzer/strong-mode configurations
+
 ## 0.2.0
 
 - Update LICENSE's copyright to include contributors

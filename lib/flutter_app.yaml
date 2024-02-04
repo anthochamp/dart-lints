@@ -6,8 +6,6 @@ analyzer:
     - "**/*.freezed.dart"
   plugins:
     - dart_code_metrics
-  strong-mode:
-    #implicit-dynamic: false
 
 dart_code_metrics:
   extends:
