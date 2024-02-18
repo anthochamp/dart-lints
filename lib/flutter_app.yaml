@@ -5,11 +5,11 @@ analyzer:
     - "**/*.g.dart"
     - "**/*.freezed.dart"
   plugins:
-    - dart_code_metrics
+    - ac_code_metrics
 
-dart_code_metrics:
+ac_code_metrics:
   extends:
-    - package:dart_code_metrics/presets/flutter_all.yaml
+    - package:dart_code_metrics_presets/flutter_all.yaml
     - code_metrics_common.yaml
 
 linter:

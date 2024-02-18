@@ -1,4 +1,4 @@
-dart_code_metrics:
+ac_code_metrics:
   metrics-exclude:
     - test/**
   rules: 

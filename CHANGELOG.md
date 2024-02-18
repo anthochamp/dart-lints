@@ -1,3 +1,8 @@
+## 0.3.0
+
+- Replace dart_code_metrics with ac_code_metrics package
+- Upgrade dart_code_metrics_presets to 2.9.0
+
 ## 0.2.1
 
 - Remove analyzer/strong-mode configurations
