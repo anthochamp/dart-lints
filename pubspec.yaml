@@ -9,5 +9,5 @@ environment:
 dependencies:
   ac_code_metrics: any 
   dart_code_metrics_presets: "^2.9.0"
-  flutter_lints: ^4.0.0
+  flutter_lints: ^5.0.0
   lints: ^4.0.0
