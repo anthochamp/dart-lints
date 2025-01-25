@@ -1,13 +1,11 @@
 name: ac_lints
 description: AC Lints rules
-version: 0.3.0
+version: 0.4.0
 repository: https://github.com/anthochamp/dart-lints
 
 environment:
-  sdk: '>=2.19.5 <4.0.0'
+  sdk: ">=2.19.5 <4.0.0"
 
 dependencies:
-  ac_code_metrics: any 
-  dart_code_metrics_presets: "^2.9.0"
   flutter_lints: ^5.0.0
-  lints: ^5.0.0
+  lints: ^5.1.1
