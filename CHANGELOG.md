@@ -1,3 +1,5 @@
+# Changelog
+
 ## 0.4.0
 
 - Remove ac_code_metrics package and rules
