@@ -4,7 +4,7 @@ version: 0.4.0
 repository: https://github.com/anthochamp/dart-lints
 
 environment:
-  sdk: ">=2.19.5 <4.0.0"
+  sdk: ">=3.8.0 <4.0.0"
 
 dependencies:
   flutter_lints: ^5.0.0
