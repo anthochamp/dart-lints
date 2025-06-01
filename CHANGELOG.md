@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.5.0 (2025-06-01)
+
+## Changed
+
+- Update SDK environment requirement (>= 3.8.0 && <4.0.0)
+- Upgrade flutter_lints package to 6.0.0
+- Upgrade lints package to 6.0.0
+
 ## 0.4.0
 
 - Remove ac_code_metrics package and rules
