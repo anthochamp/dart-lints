@@ -11,6 +11,10 @@ linter:
   rules:
     # -- Custom
     - unawaited_futures
+    # Disabled: `no-equal-arguments` is a custom lint rule that flags calls where consecutive
+    # positional arguments share the same value. This generates excessive false positives in
+    # general-purpose Dart code (e.g. `Size(0, 0)`, `Rect.fromLTWH(0, 0, width, height)`)
+    # where identical adjacent arguments are semantically correct and intentional.
     - no-equal-arguments: false
 
     # -- From AWS monorepo
